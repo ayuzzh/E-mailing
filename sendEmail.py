@@ -3,7 +3,6 @@ from tkinter import *
 import smtplib, ssl
 
 
-
 main_window = Tk()
 main_window.title("My App")
 
