@@ -4,7 +4,7 @@ import smtplib, ssl
 
 
 main_window = Tk()
-main_window.title("My App")
+main_window.title("E-mail App")
 
 
 
